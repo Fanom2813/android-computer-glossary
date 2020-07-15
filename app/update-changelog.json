@@ -1,0 +1,11 @@
+{
+  "latestVersion": "2.0",
+  "latestVersionCode": "2",
+  "url": "https://github.com/javiersantos/AppUpdater/releases",
+  "releaseNotes": [
+    "- Implementing material design",
+    "- Suport dark theme",
+    "- Reduce App size",
+    "- Bug Fix"
+  ]
+}
