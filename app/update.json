@@ -1,11 +1,9 @@
 {
-  "latestVersion": "2.0",
-  "latestVersionCode": "2",
-  "url": "https://github.com/Fanom2813/android-computer-glossary/releases",
+  "latestVersion": "2.1",
+  "latestVersionCode": "3",
+  "url": "https://github-production-release-asset-2e65be.s3.amazonaws.com/279962140/6fe15900-d7a0-11ea-98dd-339a8a0e1de1?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWNJYAX4CSVEH53A%2F20200806%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200806T115955Z&X-Amz-Expires=300&X-Amz-Signature=464c0d2c44f57b5364c976ec38126e510dabd8cb1e69f7d59b6286d7d71f87f5&X-Amz-SignedHeaders=host&actor_id=40917429&repo_id=279962140&response-content-disposition=attachment%3B%20filename%3DComputer-glossary-v2.1.apk&response-content-type=application%2Fvnd.android.package-archive",
   "releaseNotes": [
-    "- Implementing material design",
-    "- Suport dark theme",
-    "- Reduce App size",
-    "- Bug Fix"
+    "- Bug fix for android 9 and above.",
+    "- List all available terms"
   ]
 }
