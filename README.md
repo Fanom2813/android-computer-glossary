@@ -1,4 +1,4 @@
-<a href="https://fanom2813.github.io/ComputerGlossary"><img src="images/ic_launcher_round.png" title="Computer Glossary" alt="Computer Glossary"></a>
+﻿<a href="https://fanom2813.github.io/ComputerGlossary"><img src="images/ic_launcher_round.png" title="Computer Glossary" alt="Computer Glossary"></a>
 
 
 # Computer Glossary
@@ -22,7 +22,7 @@ Computer Glossary can be installed in just a few simple steps and does not requi
 
 ---
 
-## Table of Contents (Optional)
+## Table of Contents
 
 - [Installation](#installation)
 - [Features](#features)
